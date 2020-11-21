@@ -1,5 +1,6 @@
 # tony-award-prediction
-Data and analysis for a FiveThirtyEight-style prediction of the 2019 Tony awards - Musicals only! I built a clean dataset of various Broadway awards and how well they predicted winners in each category, and used it to weight the various nominees for 2019 after the run-up awards were announced. This was specifically inspired by [FiveThirtyEight's Oscar tracker by Walt Hickey](https://fivethirtyeight.com/features/how-our-oscars-tracker-works/).
+
+Data and analysis for a FiveThirtyEight-style prediction of the 2019 Tony awards - musicals only! I built a clean dataset of various Broadway awards and how well they predicted winners in each category, and used it to weight the various nominees for 2019 after the run-up awards were announced. This was specifically inspired by [FiveThirtyEight's Oscar tracker by Walt Hickey](https://fivethirtyeight.com/features/how-our-oscars-tracker-works/).
 
 [Notebook with the code and results](https://github.com/drsaunders/tony-award-prediction/blob/master/tony-award-prediction.ipynb)
 
