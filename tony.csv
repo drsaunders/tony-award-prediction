@@ -607,112 +607,192 @@ Year,Category,Nominee,Won
 2018,Score,The Band's Visit,1
 2005,Revival,Pacific Overtures,0
 2005,Revival,Sweet Charity,0
-2019,Actor,Derrick Baskin,
+2019,Actor,Derrick Baskin,0
 2004,Revival,Big River,0
 2004,Revival,Fiddler on the Roof,0
 2004,Revival,Wonderful Town,0
-2019,Actor,Alex Brightman,
+2019,Actor,Alex Brightman,0
 2003,Revival,Gypsy,0
 2003,Revival,La bohéme,0
 2003,Revival,Man of La Mancha,0
-2019,Actor,Damon Daunno,
+2019,Actor,Damon Daunno,0
 2002,Revival,Oklahoma!,0
-2019,Actor,Santino Fontana,
+2019,Actor,Santino Fontana,1
 2001,Revival,Bells Are Ringing,0
 2001,Revival,Follies,0
 2001,Revival,The Rocky Horror Show,0
-2019,Actor,Brooks Ashmanskas,
+2019,Actor,Brooks Ashmanskas,0
 2000,Revival,Jesus Christ Superstar,0
 2000,Revival,The Music Man,0
 2000,Revival,Tango Argentino,0
-2019,Actress,Stephanie J. Block,
-2019,Actress,Caitlin Kinnunen,
-2019,Actress,Beth Leavel,
-2019,Actress,Eva Noblezada,
-2019,Actress,Kelli O'Hara,
-2019,Director,Rachel Chavkin,
-2019,Director,Scott Ellis,
+2019,Actress,Stephanie J. Block,1
+2019,Actress,Caitlin Kinnunen,0
+2019,Actress,Beth Leavel,0
+2019,Actress,Eva Noblezada,0
+2019,Actress,Kelli O'Hara,0
+2019,Director,Rachel Chavkin,1
+2019,Director,Scott Ellis,0
 2018,Score,Angels in America,0
 2018,Score,Frozen,0
 2018,Score,Mean Girls,0
 2018,Score,SpongeBob SquarePants,0
-2019,Director,Daniel Fish,
+2019,Director,Daniel Fish,0
 2017,Score,Come from Away,0
 2017,Score,Groundhog Day,0
 2017,Score,"Natasha, Pierre & The Great Comet of 1812",0
-2019,Director,Des McAnuff,
+2019,Director,Des McAnuff,0
 2016,Score,Bright Star,0
 2016,Score,School of Rock,0
 2016,Score,Waitress,0
-2019,Director,Casey Nicholaw,
+2019,Director,Casey Nicholaw,0
 2015,Score,The Last Ship,0
 2015,Score,Something Rotten!,0
 2015,Score,The Visit,0
-2019,FeaturedActor,Andre De Shields,
+2019,FeaturedActor,Andre De Shields,1
 2014,Score,Aladdin,0
 2014,Score,A Gentleman's Guide to Love and Murder,0
 2014,Score,If/Then,0
-2019,FeaturedActor,Andy Grotelueschen,
+2019,FeaturedActor,Andy Grotelueschen,0
 2013,Score,A Christmas Story: The Musical,0
 2013,Score,Hands on a Hardbody,0
 2013,Score,Matilda the Musical,0
-2019,FeaturedActor,Patrick Page,
+2019,FeaturedActor,Patrick Page,0
 2012,Score,Bonnie & Clyde,0
 2012,Score,"One Man, Two Guvnors",0
 2012,Score,Peter and the Starcatcher,0
-2019,FeaturedActor,Jeremy Pope,
+2019,FeaturedActor,Jeremy Pope,0
 2011,Score,The Scottsboro Boys,0
 2011,Score,Sister Act,0
 2011,Score,Women on the Verge of a Nervous Breakdown,0
-2019,FeaturedActor,Ephraim Sykes,
+2019,FeaturedActor,Ephraim Sykes,0
 2010,Score,The Addams Family,0
 2010,Score,Enron,0
 2010,Score,Fences,0
-2019,FeaturedActress,Amber Gray,
+2019,FeaturedActress,Amber Gray,0
 2009,Score,Billy Elliot the Musical,0
 2009,Score,Shrek the Musical,0
 2009,Score,9 to 5,0
-2019,FeaturedActress,Sarah Stiles,
+2019,FeaturedActress,Sarah Stiles,0
 2008,Score,Cry-Baby,0
 2008,Score,The Little Mermaid,0
 2008,Score,Passing Strange,0
-2019,FeaturedActress,Ali Stroker,
+2019,FeaturedActress,Ali Stroker,1
 2007,Score,Curtains,0
 2007,Score,Grey Gardens,0
 2007,Score,Legally Blonde,0
-2019,FeaturedActress,Mary Testa,
+2019,FeaturedActress,Mary Testa,0
 2006,Score,The Color Purple,0
 2006,Score,The Wedding Singer,0
 2006,Score,The Woman in White,0
-2019,FeaturedActress,Lilli Cooper,
+2019,FeaturedActress,Lilli Cooper,0
 2005,Score,Dirty Rotten Scoundrels,0
 2005,Score,Spamalot,0
 2005,Score,The 25th Annual Putnam County Spelling Bee,0
-2019,Score,Be More Chill,
+2019,Score,Be More Chill,0
 2004,Score,"Caroline, or Change",0
 2004,Score,Taboo,0
 2004,Score,Wicked,0
-2019,Score,Beetlejuice,
+2019,Score,Beetlejuice,0
 2003,Score,Amour,0
 2003,Score,Urban Cowboy,0
 2003,Score,A Year with Frog and Toad,0
-2019,Score,Hadestown,
+2019,Score,Hadestown,1
 2002,Score,Sweet Smell of Success,0
 2002,Score,Thoroughly Modern Millie,0
 2002,Score,Thou Shalt Not,0
-2019,Score,The Prom,
+2019,Score,The Prom,0
 2001,Score,A Class Act,0
 2001,Score,The Full Monty,0
 2001,Score,Jane Eyre,0
-2019,Score,To Kill a Mockingbird,
+2019,Score,To Kill a Mockingbird,0
 2000,Score,James Joyce's The Dead,0
 2000,Score,Marie Christine,0
 2000,Score,The Wild Party,0
-2019,Score,Tootsie,
-2019,Musical,Ain't Too Proud,
-2019,Musical,Beetlejuice,
-2019,Musical,Hadestown,
-2019,Musical,The Prom,
-2019,Musical,Tootsie,
-2019,Revival,"Kiss Me, Kate",
-2019,Revival,Oklahoma,
+2019,Score,Tootsie,0
+2019,Musical,Ain't Too Proud,0
+2019,Musical,Beetlejuice,0
+2019,Musical,Hadestown,1
+2019,Musical,The Prom,0
+2019,Musical,Tootsie,0
+2019,Revival,"Kiss Me, Kate",0
+2019,Revival,Oklahoma,1
+2022,Musical,A Strange Loop,1
+2022,Musical,Girl from the North Country,0
+2022,Musical,MJ,0
+2022,Musical,Mr. Saturday Night,0
+2022,Musical,Paradise Square,0
+2022,Musical,Six,0
+2022,Revival,Company,1
+2022,Revival,"Caroline, or Change",0
+2022,Revival,The Music Man,0
+2022,Actor,Myles Frost,1
+2022,Actor,Billy Crystal,0
+2022,Actor,Hugh Jackman,0
+2022,Actor,Rob McClure,0
+2022,Actor,Jaquel Spivey,0
+2022,Actress,Joaquina Kalukango,1
+2022,Actress,Sharon D. Clarke,0
+2022,Actress,Carmen Cusack,0
+2022,Actress,Sutton Foster,0
+2022,Actress,Mare Winningham,0
+2022,FeaturedActor,Matt Doyle,1
+2022,FeaturedActor,Sidney DuPont,0
+2022,FeaturedActor,Jared Grimes,0
+2022,FeaturedActor,John-Andrew Morrison,0
+2022,FeaturedActor,A. J. Shively,0
+2022,FeaturedActress,Patti LuPone,1
+2022,FeaturedActress,Jeannette Bayardelle,0
+2022,FeaturedActress,Shoshana Bean,0
+2022,FeaturedActress,Jayne Houdyshell,0
+2022,FeaturedActress,L Morgan Lee,0
+2022,FeaturedActress,Jennifer Simard,0
+2022,Director,Marianne Elliott,1
+2022,Director,Jamie Armitage and Lucy Moss,0
+2022,Director,Stephen Brackett,0
+2022,Director,Conor McPherson,0
+2022,Director,Christopher Wheeldon,0
+2022,Score,Six,1
+2022,Score,A Strange Loop,0
+2022,Score,Flying Over Sunset,0
+2022,Score,Mr. Saturday Night,0
+2022,Score,Paradise Square,0
+2023,Musical,Kimberly Akimbo,1
+2023,Musical,& Juliet,0
+2023,Musical,"New York, New York",0
+2023,Musical,Shucked,0
+2023,Musical,Some Like It Hot,0
+2023,Revival,Parade,1
+2023,Revival,Camelot,0
+2023,Revival,Into the Woods,0
+2023,Revival,Sweeney Todd: The Demon Barber of Fleet Street,0
+2023,Actor,J. Harrison Ghee,1
+2023,Actor,Christian Borle,0
+2023,Actor,Josh Groban,0
+2023,Actor,Brian d'Arcy James,0
+2023,Actor,Ben Platt,0
+2023,Actor,Colton Ryan,0
+2023,Actress,Victoria Clark,1
+2023,Actress,Annaleigh Ashford,0
+2023,Actress,Sara Bareilles,0
+2023,Actress,Lorna Courtney,0
+2023,Actress,Micaela Diamond,0
+2023,FeaturedActor,Alex Newell,1
+2023,FeaturedActor,Kevin Cahoon,0
+2023,FeaturedActor,Justin Cooley,0
+2023,FeaturedActor,Kevin Del Aguila,0
+2023,FeaturedActor,Jordan Donica,0
+2023,FeaturedActress,Bonnie Milligan,1
+2023,FeaturedActress,Julia Lester,0
+2023,FeaturedActress,Ruthie Ann Miles,0
+2023,FeaturedActress,NaTasha Yvette Williams,0
+2023,FeaturedActress,Betsy Wolfe,0
+2023,Director,Michael Arden,1
+2023,Director,Lear deBessonet,0
+2023,Director,Casey Nicholaw,0
+2023,Director,Jack O'Brien,0
+2023,Director,Jessica Stone,0
+2023,Score,Kimberly Akimbo,1
+2023,Score,Almost Famous,0
+2023,Score,KPOP,0
+2023,Score,Shucked,0
+2023,Score,Some Like It Hot,0
